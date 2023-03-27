@@ -1,3 +1,10 @@
+Marcos de Gois Borges
+March 27th 2023
+
+Creating an expense tracker app using T3 stack: Next.js, vercel for deploying, prisma for mysql database, clerk for authentication
+
+
+
 # Create T3 App
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
